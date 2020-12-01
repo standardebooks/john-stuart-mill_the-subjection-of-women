@@ -38,9 +38,9 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">John Stuart Mill argues for the social and legal equality of men and women.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>Known primarily for his work in political philosophy, ethics, and economics, <a href="https://standardebooks.org/ebooks/john-stuart-mill">John Stuart Mill</a> is perhaps less well known as an early feminist thinker.</p>
-			<p>Published in 1869, <i>The Subjection of Women</i> was ahead of its time. Motivated by the conviction that the subordination of women was “one of the chief obstacles to human improvement,” Mill argued not merely for women's suffrage, but for “a principle of perfect equality”—the complete social, political, and legal equality of the sexes.</p>
-			<p>Mill credited his late wife, Harriet Taylor Mill, with many of the important ideas put forth in the essay.</p>
+			&lt;p&gt;Known primarily for his work in political philosophy, ethics, and economics, &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt; is perhaps less well known as an early feminist thinker.&lt;/p&gt;
+			&lt;p&gt;Published in 1869, &lt;i&gt;The Subjection of Women&lt;/i&gt; was ahead of its time. Motivated by the conviction that the subordination of women was “one of the chief obstacles to human improvement,” Mill argued not merely for women’s suffrage, but for “a principle of perfect equality”—the complete social, political, and legal equality of the sexes.&lt;/p&gt;
+			&lt;p&gt;Mill credited his late wife, Harriet Taylor Mill, with many of the important ideas put forth in the essay.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27083</dc:source>
