@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85147765</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>John Stuart Mill argues for the social and legal equality of men and women.</dc:abstract>
+		<meta property="schema:abstract">John Stuart Mill argues for the social and legal equality of men and women.</meta>
 		<dc:description>
 			&lt;p&gt;Known primarily for his work in political philosophy, ethics, and economics, &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt; is perhaps less well known as an early feminist thinker.&lt;/p&gt;
 			&lt;p&gt;Published in 1869, &lt;i&gt;The Subjection of Women&lt;/i&gt; was ahead of its time. Motivated by the conviction that the subordination of women was “one of the chief obstacles to human improvement,” Mill argued not merely for women’s suffrage, but for “a principle of perfect equality”—the complete social, political, and legal equality of the sexes.&lt;/p&gt;
